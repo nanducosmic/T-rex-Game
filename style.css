@@ -1,0 +1,15 @@
+.dino{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    bottom: 0px;
+}    
+
+body{
+    background-color: rgb(6, 70, 70);
+            
+}
+.icon{
+    
+}
